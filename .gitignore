@@ -1,0 +1,14 @@
+node_modules
+.next
+.env*.local
+.env
+.vercel
+next-env.d.ts
+.env*
+
+# demo: keep only the script and final voiced video
+demo/voice/
+demo/localfit-validate-demo.mp4
+.vercel
+*.tsbuildinfo
+.DS_Store
